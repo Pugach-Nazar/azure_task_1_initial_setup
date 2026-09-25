@@ -1,7 +1,11 @@
 Validation command:
-pwsh -NoProfile -ExecutionPolicy Bypass -File ./scripts/validate-artifacts.ps1
 
-Output:
+
+scripts/validate-artifacts.ps1
+
+
+Result:
+
 Reading config
 Checking if temp folder exists
 Downloading artifacts
